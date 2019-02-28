@@ -1,3 +1,3 @@
 # xampp
 Hello world
-Welcome to cushy
+Welcome to Cushy
